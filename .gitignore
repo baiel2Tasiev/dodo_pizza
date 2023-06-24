@@ -1,0 +1,5 @@
+venv
+.env
+dodo.db
+__pycache__/
+.idea
